@@ -10,26 +10,13 @@ This would be able to train people against furture cyber defends in multiple asp
 
 ## Features/Objectives
 
-* The robot will use air suction so that the cards will not be damaged when their are picked up, moved or placed.
-* Operators will be able to perform the following actions
-  * Sort cards by values determined by their input
-  * These values would be pulled from a database that is updated from webscraping TCGPlayer
-  * Things that the webscraping would pull
-    * Market Price
-    * Prices by condition
-    * Item ID
-    * Item Name
-  * It would have a secure front and backend
-  * The interface would be python based but at somepoint I would like to transfer it to being a gui based interface/software
+* Users will be able to replicate environments compramised by attackers.
+* They will be able to see multiple stages of the attacks
+  * This would allow people to be able to be able to do the following:
+    * Figure out warning signs
+    * Learn how to react to attacks at different stages
+    * Be able to try different countermeasures
 
 ## Constraints
 
-* I do not know much about Robotics
-* I also do not know extensivly about 3d printing
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
+* I have a general idea about what is going to go into this project but I still do not have a solid idea of what is going to be involved
