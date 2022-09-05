@@ -1,3 +1,35 @@
-APT Demonstration and Analysis (Client: Ali)
-Identify an active APT Group (Advanced Persistent Threat), research their techniques, and create a full lifecycle demonstration of all stages of the attack process.  
 The goal would be to provide documentation, videos, and a test platform as a training and awareness tool for cyber defenders
+
+# APT Demonstration and Analysis (Client: Ali)
+
+> Identify an active APT Group (Advanced Persistent Threat), research their techniques, and create a full lifecycle demonstration of all stages of the attack process.
+
+## Why?
+
+This would be able to train people against furture cyber defends in multiple aspects from awareness of types of attacks from theses groups to how to deal with these types of attacks
+
+## Features/Objectives
+
+* The robot will use air suction so that the cards will not be damaged when their are picked up, moved or placed.
+* Operators will be able to perform the following actions
+  * Sort cards by values determined by their input
+  * These values would be pulled from a database that is updated from webscraping TCGPlayer
+  * Things that the webscraping would pull
+    * Market Price
+    * Prices by condition
+    * Item ID
+    * Item Name
+  * It would have a secure front and backend
+  * The interface would be python based but at somepoint I would like to transfer it to being a gui based interface/software
+
+## Constraints
+
+* I do not know much about Robotics
+* I also do not know extensivly about 3d printing
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
